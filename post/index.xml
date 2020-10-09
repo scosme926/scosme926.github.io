@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Bento</title><link>https://www.example.com/post/</link><description>Recent content in Posts on Bento</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>MIT</copyright><lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.example.com/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Smart Assistants</title><link>https://www.example.com/post/posts1/</link><pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate><guid>https://www.example.com/post/posts1/</guid><description>&lt;h2 id="methodologies-for-creating-efficient-chatbots">Methodologies for creating efficient chatbots&lt;/h2>
+&lt;img src="https://www.example.com/images/vpas.jpg" alt="Virtual Pesonal Assistants" width="800" height="450">
+&lt;p>Technologychatbots are virtual users that simulate a conversation with a human. Virtual Personal Assistants (VPAs) are born as a new standalone mobile app and are hosted on smart devices already known as Home Speakers or Home Devices, such as Google Home, Amazon Echo or Apple’s Home Pod. Chabot’s or conversational assistants are developed on websites, messaging apps, social networks or applications, and their main mode of interaction is through messages, whether voice or text.&lt;/p>
+&lt;h2 id="the-most-famous-vpas">The most famous VPAs:&lt;/h2>
+&lt;h4 id="-alexa-amazon-virtual-assistant">-Alexa: Amazon virtual assistant&lt;/h4>
+&lt;img src="https://www.example.com/images/alexa.jpg" alt="Virtual Pesonal Assistants" width="400" height="200">
+&lt;h4 id="-siri-available-on-all-apple-devices">-Siri: available on all Apple devices&lt;/h4>
+&lt;img src="https://www.example.com/images/siri.jpg" alt="Virtual Pesonal Assistants" width="400" height="200">
+&lt;h4 id="-google-assistant-his-voice-wasnt-as-human-as-the-others-but-it-has-a-wide-range-of-features">-Google Assistant: His voice wasn’t as human as the others, but it has a wide range of features.&lt;/h4>
+&lt;img src="https://www.example.com/images/google.jpg" alt="Virtual Pesonal Assistants" width="400" height="200">
+&lt;h4 id="-bixby-virtual-assistant-for-samsung">-Bixby: Virtual assistant for Samsung&lt;/h4>
+&lt;img src="https://www.example.com/images/Bixby.jpg" alt="Virtual Pesonal Assistants" width="400" height="200">
+&lt;h2 id="methodology-to-create-an-efficient-chatbot">Methodology to create an efficient chatbot&lt;/h2>
+&lt;p>1.- Creation of personality
+Building a chatbot starts with its personality. Issues such as tone, expressiveness, gender or type of language and voice (if applicable) will be defined. You should imagine how the interactions with users will be and how you will behave in a conversation, the language used, the most common terms and other topics that will shape your personality.&lt;/p>
+&lt;p>2.- Elaboration of the content and design of the conversational experience
+The content is decisive for the conversational assistant or chatbot to respond correctly. Issues such as rules, logic, semantics and training phrases will be defined. It is important to create a wide set of questions and answers to provide the chatbot with a good knowledge base.&lt;/p>
+&lt;p>3.- Design of the experience
+A good interface and design will capture the user&amp;rsquo;s attention and invite them to use the chatbot. Aspects such as the design and look and feel of the interface will be defined, which will depend on the channel in which the chatbot is deployed.&lt;/p>
+&lt;p>4.- Technological platform and integrations
+It will condition the development and the programming languages ​​used in the chatbot.&lt;/p>
+&lt;p>5.- Supervision and monitoring
+To identify the behavior and quality of the chatbot&amp;rsquo;s attention. It is possible to define metrics that help measure performance, such as error rate, time to resolve queries or percentage of use of the chatbot compared to other channels.&lt;/p>
+&lt;p>6.- Feedback and supervised training
+It consists of optimizing the solution to improve the model, decrease the error rate and increase the precision of the responses.
+In addition to the implementation of improvements in the development and contents of the chatbot.&lt;/p></description></item></channel></rss>
