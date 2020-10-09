@@ -1,15 +1,15 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>theme on Bento</title><link>https://www.example.com/tags/theme/</link><description>Recent content in theme on Bento</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>MIT</copyright><lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.example.com/tags/theme/index.xml" rel="self" type="application/rss+xml"/><item><title>Smart Assistants</title><link>https://www.example.com/post/posts1/</link><pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate><guid>https://www.example.com/post/posts1/</guid><description>&lt;h2 id="methodologies-for-creating-efficient-chatbots">Methodologies for creating efficient chatbots&lt;/h2>
-&lt;img src="https://www.example.com/images/vpas.jpg" alt="Virtual Pesonal Assistants" width="800" height="450">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>theme on Bento</title><link>https://scosme926.github.io/tags/theme/</link><description>Recent content in theme on Bento</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>MIT</copyright><lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://scosme926.github.io/tags/theme/index.xml" rel="self" type="application/rss+xml"/><item><title>Smart Assistants</title><link>https://scosme926.github.io/post/posts1/</link><pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate><guid>https://scosme926.github.io/post/posts1/</guid><description>&lt;h2 id="methodologies-for-creating-efficient-chatbots">Methodologies for creating efficient chatbots&lt;/h2>
+&lt;img src="https://scosme926.github.io/images/vpas.jpg" alt="Virtual Pesonal Assistants" width="800" height="450">
 &lt;p>Technologychatbots are virtual users that simulate a conversation with a human. Virtual Personal Assistants (VPAs) are born as a new standalone mobile app and are hosted on smart devices already known as Home Speakers or Home Devices, such as Google Home, Amazon Echo or Apple’s Home Pod. Chabot’s or conversational assistants are developed on websites, messaging apps, social networks or applications, and their main mode of interaction is through messages, whether voice or text.&lt;/p>
 &lt;h2 id="the-most-famous-vpas">The most famous VPAs:&lt;/h2>
 &lt;h4 id="-alexa-amazon-virtual-assistant">-Alexa: Amazon virtual assistant&lt;/h4>
-&lt;img src="https://www.example.com/images/alexa.jpg" alt="Virtual Pesonal Assistants" width="400" height="200">
+&lt;img src="https://scosme926.github.io/images/alexa.jpg" alt="Virtual Pesonal Assistants" width="400" height="200">
 &lt;h4 id="-siri-available-on-all-apple-devices">-Siri: available on all Apple devices&lt;/h4>
-&lt;img src="https://www.example.com/images/siri.jpg" alt="Virtual Pesonal Assistants" width="400" height="200">
+&lt;img src="https://scosme926.github.io/images/siri.jpg" alt="Virtual Pesonal Assistants" width="400" height="200">
 &lt;h4 id="-google-assistant-his-voice-wasnt-as-human-as-the-others-but-it-has-a-wide-range-of-features">-Google Assistant: His voice wasn’t as human as the others, but it has a wide range of features.&lt;/h4>
-&lt;img src="https://www.example.com/images/google.jpg" alt="Virtual Pesonal Assistants" width="400" height="200">
+&lt;img src="https://scosme926.github.io/images/google.jpg" alt="Virtual Pesonal Assistants" width="400" height="200">
 &lt;h4 id="-bixby-virtual-assistant-for-samsung">-Bixby: Virtual assistant for Samsung&lt;/h4>
-&lt;img src="https://www.example.com/images/Bixby.jpg" alt="Virtual Pesonal Assistants" width="400" height="200">
+&lt;img src="https://scosme926.github.io/images/Bixby.jpg" alt="Virtual Pesonal Assistants" width="400" height="200">
 &lt;h2 id="methodology-to-create-an-efficient-chatbot">Methodology to create an efficient chatbot&lt;/h2>
 &lt;p>1.- Creation of personality
 Building a chatbot starts with its personality. Issues such as tone, expressiveness, gender or type of language and voice (if applicable) will be defined. You should imagine how the interactions with users will be and how you will behave in a conversation, the language used, the most common terms and other topics that will shape your personality.&lt;/p>
